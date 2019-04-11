@@ -1,0 +1,8 @@
+{
+  "name": "babel-plugin-fix-dce-for-classes-with-statics",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/mitchellhamilton/babel-plugin-fix-dce-for-classes-with-statics",
+  "author": "mitchellhamilton <mitchell@hamil.town>",
+  "license": "MIT"
+}
